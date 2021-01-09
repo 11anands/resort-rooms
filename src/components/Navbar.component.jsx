@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../App.css';
 import logo from '../images/logo.svg';
 import { FaAlignRight } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
